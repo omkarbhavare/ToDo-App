@@ -1,0 +1,19 @@
+body{
+    background: #2c2121;
+    color: rgb(253, 251, 251);
+margin:0 px
+}
+
+.tasklist {
+    
+    padding: 2% 7%;
+    
+}
+
+th , td {
+    color: white;
+}
+
+.card-text{
+    color: black;
+}
